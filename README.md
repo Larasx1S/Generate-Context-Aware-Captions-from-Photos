@@ -299,7 +299,9 @@ The model demonstrates strong context-aware caption generation:
 
 **Example 1**
 
-<img src="/home/labs25captioning/blip2/image_readme/28physics-jumbo.webp" alt="Text" width="500">
+<p align="center">
+  <img src="media/28physics-jumbo.webp" alt="GUI_Client" width="600">
+</p>
 
 * **Original:** "Patriots Coach Bill Belichick on Tuesday. “I think Belichick is better at keeping pressure on the passer than passing a physics test,” a cosmologist said."
 * **Generated:** "Context: [sports 2015-11-02 PERSON Bill Belichick] Caption: Bill Belichick, the coach of the New England Patriots, at a news conference in Foxborough, on Monday."
@@ -307,7 +309,9 @@ The model demonstrates strong context-aware caption generation:
 
 **Example 2**
 
-<img src="/home/labs25captioning/blip2/image_readme/03erdogan-web1-superJumbo.webp" alt="Text" width="500">
+<p align="center">
+  <img src="media/03erdogan-web1-superJumbo.webp" alt="GUI_Client" width="600">
+</p>
 
 * **Original:** "President Recep Tayyip Erdogan voted on Sunday at a polling station in Istanbul. His party gained a decisive victory."
 * **Generated:** "Context: [world Turkey 2015-11-13 PERSON Erdogan] Caption: President Recep Tayyip Erdogan of Turkey voting in Istanbul on Sunday. Mr. Erdogans said at a news conference after casting his own vote."
@@ -316,7 +320,9 @@ The model demonstrates strong context-aware caption generation:
 **Example 3**
 
 
-<img src="/home/labs25captioning/blip2/image_readme/04db-briefs-superJumbo.webp" alt="Text" width="500">
+<p align="center">
+  <img src="media/04db-briefs-superJumbo.webp" alt="GUI_Client" width="600">
+</p>
 
 * **Original:** "Chief Justice John G. Roberts Jr., right, with Associate Justice Anthony M. Kennedy. Justice Roberts is known as a premier appeals brief craftsman."
 * **Generated:** "Context: [us 2017-01-18 PERSON the Supreme Court] Caption: Chief Justice John G. Roberts Jr., left, and Justice Anthony M. Kennedy at the Supreme Court in Washington on Tuesday."
@@ -325,8 +331,9 @@ The model demonstrates strong context-aware caption generation:
 
 **Example 4**
 
-
-<img src="/home/labs25captioning/blip2/image_readme/5ae119be068401528a2aab58_1.jpg" alt="Text" width="500">
+<p align="center">
+  <img src="media/5ae119be068401528a2aab58_1.jpg" alt="GUI_Client" width="600">
+</p>
 
 * **Original:** "Bill Cosby arriving Wednesday at the Montgomery County Courthouse."
 * **Generated:** "Context: [nyregion New York 2015-03-17 PERSON Cosby] Caption: Bill Cosby at a court hearing in Philadelphia last month. He has pleaded not guilty to charges that he sexually assaulted Andrea Constand, a former Temple University employee, in 2004."
@@ -335,8 +342,9 @@ The model demonstrates strong context-aware caption generation:
 
 **Example 5**
 
-
-<img src="/home/labs25captioning/blip2/image_readme/59971b9e95d0e0246f2006fa_0.jpg" alt="Text" width="500">
+<p align="center">
+  <img src="media/59971b9e95d0e0246f2006fa_0.jpg" alt="GUI_Client" width="600">
+</p>
 
 * **Original:** "Mourners on Friday on Las Ramblas, the site of a deadly terrorist attack in Barcelona, Spain."
 * **Generated:** "Context: [world Barcelona 2017-09-18 PERSON Marjory Stoneman Douglas High School] Caption: A memorial for the victims of the attack in Barcelona, Spain, on Wednesday."
