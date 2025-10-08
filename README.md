@@ -1,6 +1,6 @@
 # Context-Aware Image Captioning with BLIP-2
 
-**Systematic Analysis and Development of Innovative Systems 2025 - Practical Lab**  
+**more details PDF: caption_report**  
 **Project: Generate Context-Aware Captions from Photos**
 
 This project implements a context-aware image captioning system that goes beyond standard literal descriptions. Instead of generating basic captions like "A person standing in front of a building," our system produces rich, contextual descriptions like "Reporter covering the climate summit in Paris, December 2024" by incorporating temporal, geographical, and social context.
